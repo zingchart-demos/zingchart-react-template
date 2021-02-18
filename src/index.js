@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import 'zingchart/zingchart-es6.min.js';
 
 ReactDOM.render(
   <React.StrictMode>
